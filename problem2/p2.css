@@ -1,0 +1,63 @@
+
+  footer {
+    color: white;
+    
+    display: flex;
+    flex-direction: column;
+  }
+
+
+.footSec1 {
+    text-align: center;
+    color: white;
+    background-color: #38382f;
+    display: flex;
+    flex-direction: row;
+    padding: 2.5em;
+    
+    flex: 16;
+}
+
+.sec1_item{
+    flex:1
+}
+
+.footSec2 {
+    text-align: center;
+    font-size: 0.8em;
+    padding: 1.2em;
+    color: white;
+    background-color: black;
+    
+    display: flex;
+    flex-direction: row;
+
+    flex: 1;
+}
+
+.sec2_item{
+    flex:1
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li{
+    text-align: left;
+    margin: 0.5em;
+   
+}
+
+h3{
+    text-align: left;
+    margin: 0.5em;
+}
+
+.logo1{
+    background-color: aliceblue;
+    margin-left: 1em;
+}

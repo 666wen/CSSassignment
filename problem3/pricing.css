@@ -1,0 +1,39 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.container {
+    max-width: 960px;
+}
+
+.pricing-header {
+    max-width: 700px;
+}
+
+.card-deck .card {
+    min-width: 220px;
+}
+
+.signUp {
+    position: absolute;
+    right: 20px;
+    top:10px;
+}
+
+.myNav {
+    position: relative;
+    background-color: blue;
+    border-style: solid;
+    height: 70px;
+}
+
+h1{
+    position: relative;
+    left: 100px;
+}
